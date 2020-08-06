@@ -25,7 +25,7 @@
                     </li>
                     <li>
                         <a href="#work">quera</a>
-                        <link rel="stylesheet" href="https://quera.ir/profile/ahyhiva">
+                        <p> https://quera.ir/profile/ahyhiva </p>
                     </li>
                 </ul>
             </nav>
