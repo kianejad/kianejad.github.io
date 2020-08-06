@@ -72,9 +72,10 @@
                 <br>
             </h1>
             <p>cisco / microsoft</p>
-            <a href="#contact">contact me</a>
         </div>
     </div>
+    <br>
+    <br>
     <div class="container about" id="about">
         <h1>About</h1>
         <div class="about-me-info">
