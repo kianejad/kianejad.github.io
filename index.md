@@ -24,7 +24,8 @@
                         <a href="#skills">skills</a>
                     </li>
                     <li>
-                        <a href="#work">my work</a>
+                        <a href="#work">quera</a>
+                        <link rel="stylesheet" href="https://quera.ir/profile/ahyhiva">
                     </li>
                 </ul>
             </nav>
